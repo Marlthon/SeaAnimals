@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.46f1
+CRC: 3966994527
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: landanimals
+      Dependencies: {}
+    Info_1:
+      Name: airanimals
+      Dependencies: {}
+    Info_2:
+      Name: seacreature
+      Dependencies:
+        Dependency_0: mar_seaanimals
+    Info_3:
+      Name: mar_seaanimals
+      Dependencies:
+        Dependency_0: landanimals
+        Dependency_1: seacreature

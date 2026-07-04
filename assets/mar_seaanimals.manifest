@@ -1,0 +1,243 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.46f1
+CRC: 907018736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bba444494d28a1a2ded58eb907d1266
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68429e63756ab355ff97a979aea27318
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 24abfd309ed270d356aed74fb1342cbc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2140874873, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -474323496, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 829610738, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -2004315460, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1137906148, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1383431051, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1266444067, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1421768954, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1282597392, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1047228599, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -2012497638, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 54271039, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1044604064, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -697670096, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1404409730, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -2077285929, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 313648218, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 825357479, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -917656959, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1541706127, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 469224316, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 165
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: Attack
+- AssemblyName: assembly_valheim
+  ClassName: CharacterAnimEvent/Foot
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: EffectList/EffectData
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageModifiers
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageTypes
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData/SharedData
+Assets:
+- Assets/Bagual/SeaAnimals/Shark Pack/HammerHeadShark/Attack_HammerHeadShark02_marinelife.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/Models/SA_GreenTurtle.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/sfx_Idle_Crocodile_marinelife.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/SA_green_atk.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/SA_Dolphin.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/Models/SA_RedTurtle.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/TigerShark/SA_TigerShark.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/SFX/sfx_wood_destroyed_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/BlueShark/Attack_BlueShark01_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/fx_pet_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Humboldt Squid/HumboldtSquidEffects/sfx_humboldtsquid_attack_hit.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/TigerShark/Attack_TigerShark03_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_corpse_small_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/SFX/sfx_death_seaanimals.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/WhiteSharkEffects/sfx_attack_whiteshark_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_HitSparks_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Humboldt Squid/SA_HumboldtSquid.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/Attack_Crocodile04_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/sfx_tamed_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_love_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/fx_backstab_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Humboldt Squid/HumboldtSquidEffects/vfx_humboldtsquid_pray.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/OrcaMeat/SA_WhaleMeat.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/SFX/sfx_build_hammer_wood_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_birth_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Humboldt Squid/HumboldtSquidEffects/Attack_HumboldtSquid.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/SA_red_atk.prefab
+- Assets/Bagual/SeaAnimals/Leatherback Sea Turtle/SA_LeatherbackSeaTurtle.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/SA_WhiteShark.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/sfx_alert_Crocodile_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_pet_orca_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/SFX/sfx_hit_seamar.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_corpse_mini_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/sfx_pet_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/BlueSharkMeat/SA_BlueSharkMeat.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/sfx_death_crocodile_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/WhiteSharkEffects/sfx_tamed_whiteshark_marinelife.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/SA_yellow_atk.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/HammerHeadShark/Attack_HammerHeadShark03_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Orca/SA_Orca.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/Attack_01_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_Place_wood_pole_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/Attack_Crocodile01_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/fx_tamed_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/sfx_attack_crocodile_marinelife.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/Models/SA_YellowTurtle.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/BlueSharkMeat/SA_RoastBlueSharkMeat.prefab
+- Assets/Bagual/SeaAnimals/Humboldt Squid/HumboldtSquidEffects/sfx_humboldtsquid_attack.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/WhiteSharkEffects/WhiteShark_Attack_Jump_marinelife.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/sfx_seaturtle_attack_hit.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_alert_orca_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/Attack_Crocodile03_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/SeaTurtleMeat/SA_SeaTurtleMeatCooked.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_death_seaanimals_medium.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/Models/SA_BlueTurtle.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_tamed_orca_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_idle_orca_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/sfx_love_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/Attack_Crocodile02_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_death_seaanimals_big.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/TigerShark/Attack_TigerShark01_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/Crocodile/SA_CrocoMeatCook.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/sfx_birth_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/WhaleShark/SA_WhaleShark.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_death_orca_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Saddle/SA_Sadle.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/fx_crit_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/SA_WhiteShark1.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/Orca_Attack_Jump_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/HumboldtMeat/SA_HumboldMeat.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/sfx_death_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_wsurface_small_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_orcasoundhit_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_SawDust_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/Orca_Attack_Bite1_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/HammerHeadShark/Attack_HammerHeadShark01_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_corpse_medium_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/SA_Crocodile.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_death_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Right Whale/SA_RightWhale.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_hit_marinelife.prefab
+- Assets/Bagual/SeaAnimals/SeaTurtles/SA_blue_atk.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/TurtleMeat/SA_TurtleMeatCook.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/WhiteSharkEffects/WhiteShark_Attack_Bite1_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Great White Shark/WhiteSharkEffects/sfx_pet_whiteshark_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/SharkMeat/SA_SharkMeat.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/SeaTurtleMeat/SA_SeaTurtleMeat.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/sfx_littleorca_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/HumboldtMeat/SA_HumboldMeatCooked.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/SharkMeat/SA_RoastSharkMeat.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/BlueShark/SA_BlueShark.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/TurtleMeat/SA_TurtleMeat.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/OrcaMeat/SA_RoastWhaleMeat.prefab
+- Assets/Bagual/SeaAnimals/Dolphin/DolphinEffects/sfx_idle_dolphin_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/HammerHeadShark/SA_HammerHeadShark.prefab
+- Assets/Bagual/SeaAnimals/Humboldt Squid/HumboldtSquidEffects/HumboldtSquid_Aoe.prefab
+- Assets/Bagual/SeaAnimals/Shark Pack/TigerShark/Attack_TigerShark02_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_hurt_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Meats1/Crocodile/SA_CrocoMeat.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_wsurface_medium_marinelife.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/VFX/vfx_soothed_marinelife.prefab
+Dependencies:
+- F:/Visual Studio Projects/MODS FREE/(MOD) SeaAnimals/assets/landanimals
+- F:/Visual Studio Projects/MODS FREE/(MOD) SeaAnimals/assets/seacreature

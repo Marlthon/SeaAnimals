@@ -1,0 +1,261 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.46f1
+CRC: 1504202599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b067969b955bc8fde516cbe5b1b4c854
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b8a221c3ff8f9de0929d399f184f3e3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d4a149cf07adb79d5271d92040d625a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -474323496, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 829610738, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -2004315460, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1137906148, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1383431051, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1266444067, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1986262334, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1421768954, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 982756858, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1578695569, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1282597392, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1047228599, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -2012497638, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 54271039, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1044604064, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -697670096, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1404409730, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -2077285929, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 313648218, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 825357479, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -917656959, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1541706127, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 469224316, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 165
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: Attack
+- AssemblyName: assembly_valheim
+  ClassName: CharacterAnimEvent/Foot
+- AssemblyName: assembly_valheim
+  ClassName: CharacterDrop/Drop
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: EffectList/EffectData
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageModifiers
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageTypes
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData/SharedData
+Assets:
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_corpse_mini_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/SA_Seal.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/fx_tamed_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_dolphin_attack.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_fx_crit.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SharkMeat/SA_SharkMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/OrcaMeat/SA_RoastWhaleMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/sfx_penguin_alert_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/SA_LittleOrca.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/sfx_mar_petbase.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/Penguin4.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/IcoSealMeat.png
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Sharks/Animations/SA_Black_Atk.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/SA_sfx_crock_idle.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/sfx_seal_alerted_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/meatOnBone.png
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/fx_backstab_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/SA_DolphinRagdoll.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_death_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/SA_Dolphin.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SharkMeat/SA_RoastSharkMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/SA_Crocodile_ragdoll.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_sfx_dolphin_love.prefab
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/Sounds/Attack_Crocodile_01.mp3
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/sfx_hit_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/SA_Crocodile.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_death_GR.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/SA_sfx_crock_death.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/SA_Ragdoll.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/SA_Dolphin_Atk.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Sharks/Animations/SA_White_Atk.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/SA_SealMeatCook.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/SA_LOrca_ragdoll.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_HitSparks_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_hurt_PQ.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/meatOnBone.blend.fbx
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Sharks/Animations/Shrakbite.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/PenguinMeat/SA_PenguinMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/sfx_penguin_hit_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/fx_crit_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_sfx_dolphin_death.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/SA_Orca_ragdoll.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_df_fx_tamed.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_surface_mini.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/Crocodile Growl
+  2.mp3
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Sharks/SA_BlacktipShark.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/SA_Orca.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/SA_LittleDolphin.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_vfx_dolphin_birth.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_hit_seamar.prefab
+- Assets/Bagual/SeaAnimals/Common/sfx_death_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_sfx_dolphin_idle.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/Penguin1.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_vfx_dolphin_love.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_fx_backstab.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/OrcaMeat/SA_WhaleMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/Crocodile/SA_CrocoMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/TurtleMeat/SA_TurtleMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_df_fx_pet.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/seal2.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/seal4.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/SA_Penguin.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_birth_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/seal1.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/sfx_seal_hit_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_wsurface_small_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/vfx_HitSparks_SA.prefab
+- Assets/Bagual/SeaAnimals/Orca/EffectsOrca/Sounds/orcabite_marinelife.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_surface_PQ.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/IcoOrcaRope.png
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_love_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/sfx_seal_death_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_wsurface_medium_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/seacorp_m.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/seacorp_g.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/SA_sfx_crock_atk_hit.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/meatOnBonecrua.png
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/seacorp_p.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/sfx_death_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/fx_pet_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/SA_Seal_ragdoll.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/Animations/orca_attack.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/IcoSealMeatCook.png
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/Crocodile/SA_CrocoMeatCook.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/vfx_sea_hit.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_sfx_dolphin_birth.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/Penguin3.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_corpse_medium_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_death_PQ.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_soothed_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/Crocodile Growl
+  7.mp3
+- Assets/Bagual/SeaAnimals/Crocodile/CrocodileEffects/Sounds/Attack_Crocodile_02.mp3
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/Penguin2.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/seal3.ogg
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Common/Effects/vfx_corpse_small_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/SA_sfx_crock_atk.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/sfx_penguin_idle_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/vfx_orca_love.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Sharks/SA_WhiteShark.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/TurtleMeat/SA_TurtleMeatCook.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/Crocodile Growl
+  6.mp3
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/SA_LDolphinRag.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/vfx_sea_death_GR.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_soothed.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/PenguinMeat/SA_PenguinMeatCook.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Sharks/Animations/shark_soundhit_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/Effects1/SA_sfx_crock_hit.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Dolphin/Models/Effects/SA_vfx_dolphin_soothed.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Meats/SealMeat/SA_SealMeat.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Orca/SA_SeaRope.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/sea_vfx_surface_GR.prefab
+- Assets/Bagual/SeaAnimals/Common/Effects/sfx_mar_petbase.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Seal/Effects/sfx_seal_idle_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Effects/vfx_sea_death_PQ.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/Effects/sfx_penguin_death_seamar.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Crocodile/SA_crock_atk.prefab
+- Assets/Bagual/RESOURCES/SeaAnimals(OLD)/Animals/Penguin/SA_PenguinRag.prefab
+Dependencies:
+- F:/Visual Studio Projects/MODS FREE/(MOD) SeaAnimals/assets/mar_seaanimals
